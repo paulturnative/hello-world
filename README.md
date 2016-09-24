@@ -1,2 +1,2 @@
 # hello-world
-This is my repository.
+This is Paul Turner's repository.
